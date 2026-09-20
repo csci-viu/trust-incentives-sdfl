@@ -655,9 +655,7 @@ A `CITATION.cff` file will be provided for stable research-software releases.
 
 ## License
 
-Licensing information for software and research artifacts will be provided in the repository.
-
-Third-party datasets remain subject to their original licenses and terms of use.
+The MIT License applies to original software released through this repository. Published manuscripts, publisher-formatted articles, and third-party materials remain subject to their respective copyright and licensing terms.
 
 ---
 
