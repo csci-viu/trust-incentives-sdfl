@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this repository or its research artifacts, please cite the associated paper below."
+
+title: "Trust and Incentive Mechanisms for Semi-Decentralized Federated Learning"
+type: software
+
+authors:
+
+* family-names: "Shrestha"
+  given-names: "Ajay Kumar"
+  orcid: "https://orcid.org/0000-0002-1081-7036"
+
+repository-code: "https://github.com/csci-viu/trust-incentives-sdfl"
+
+keywords:
+
+* federated learning
+* semi-decentralized federated learning
+* decentralized artificial intelligence
+* trust
+* incentive mechanisms
+* blockchain
+* smart contracts
+* IPFS
+* robust aggregation
+
+preferred-citation:
+type: conference-paper
+authors:
+- family-names: "Shrestha"
+given-names: "Ajay Kumar"
+orcid: "https://orcid.org/0000-0002-1081-7036"
+title: "Trust-Based Incentive Mechanisms in Semi-Decentralized Federated Learning Systems"
+year: 2026
+collection-title: "Blockchain Technology and Applications"
+collection-type: proceedings
+start: 226
+end: 241
+publisher:
+name: "Springer Nature Switzerland"
+doi: "10.1007/978-3-032-22088-2_16"
