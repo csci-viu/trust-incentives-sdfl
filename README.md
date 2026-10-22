@@ -72,11 +72,11 @@ $$
 
 where:
 
-* \(A_i\) — model-update accuracy or utility,
-* \(C_i\) — consistency of contributions,
-* \(D_i\) — update-quality/data-quality proxy,
-* \(U_i\) — participation or update frequency,
-* \(\alpha, \beta, \gamma, \delta\) — corresponding trust weights.
+- $A_i$ — model-update accuracy or utility,
+- $C_i$ — consistency of contributions,
+- $D_i$ — update-quality/data-quality proxy,
+- $U_i$ — participation or update frequency,
+- $\alpha, \beta, \gamma, \delta$ — corresponding trust weights.
 
 The framework also incorporates explicit temporal behaviour.
 
