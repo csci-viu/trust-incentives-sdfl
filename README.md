@@ -88,7 +88,7 @@ $$
 T_i(t)=T_i(t_0)e^{-\lambda(t-t_0)}
 $$
 
-where \(\lambda\) controls the decay rate.
+where $\(\lambda\)$ controls the decay rate.
 
 ### Trust Recovery
 
@@ -100,9 +100,9 @@ $$
 
 where:
 
-* \(\eta\) is the recovery rate,
-* \(T_{\max}\) is the maximum trust value,
-* \(\Delta_i\) represents recent behavioural improvement.
+* $\(\eta\)$ is the recovery rate,
+* $\(T_{\max}\)$ is the maximum trust value,
+* $\(\Delta_i\)$ represents recent behavioural improvement.
 
 This allows the framework to respond both to behavioural degradation and to genuine improvement.
 
