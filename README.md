@@ -95,15 +95,7 @@ where \(\lambda\) controls the decay rate.
 Clients that demonstrate improved behaviour may gradually recover trust:
 
 $$
-T_i(t+1)
-=
-T_i(t)
-+
-\eta
-\left(
-T_{\max}-T_i(t)
-\right)
-\Delta_i
+T_i(t+1)=T_i(t)+\eta\left(T_{\max}-T_i(t)\right)\Delta_i
 $$
 
 where:
