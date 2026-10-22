@@ -26,6 +26,7 @@ Design choices are deterministic across methods for a fixed seed:
 - same participant schedule
 - same local mini-batch shuffle schedule
 This enables paired comparisons across methods.
+Formatted using an AI tool
 """
 
 from __future__ import annotations
