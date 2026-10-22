@@ -5,8 +5,9 @@ Default final grid = 70 runs:
 - S1 20% label-flip, Dir(0.5): C0..C4 x 5 seeds = 25
 - S1 20% label-flip, Dir(0.1): C0..C4 x 5 seeds = 25
 
-The script is resume-safe: a run is skipped only when all three expected output
+The script is resume-safe: A run is skipped only when all three expected output
 files exist (round_metrics.csv, client_metrics.csv, metadata.json).
+Revised using an AI tool, the author takes full responsibility for the updates made.
 """
 
 from __future__ import annotations
