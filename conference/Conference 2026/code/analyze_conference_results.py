@@ -1,4 +1,4 @@
-"""Aggregate ICBTA 2026 experiment outputs into publication-ready tables/figures."""
+"""Aggregate ICBTA 2026 experiment outputs into tables/figures for inclusion in the manuscript."""
 
 from __future__ import annotations
 
